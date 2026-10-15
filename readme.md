@@ -45,3 +45,4 @@ https://anti-ad.net/easylist.txt
 ## Mihomo 分流规则
 
 - [Padlet MRS 规则及配置说明](mihomo/README.md)
+- [券商与香港银行合并规则](mihomo/README.md#金融服务券商与香港银行)

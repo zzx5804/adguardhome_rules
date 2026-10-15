@@ -1,0 +1,24 @@
+{
+  "upstream": "LingJingMaster/Shadowrocket-Rules",
+  "commit": "c61257022f647a825be423a84253386b9d3adc03",
+  "source_date": "2026-10-10T10:39:00Z",
+  "sources": {
+    "HK_Broker.list": 170,
+    "HSBC_HK.list": 2,
+    "HK_Banks_Direct.list": 39
+  },
+  "unique_rules": 211,
+  "rule_types": {
+    "DOMAIN-SUFFIX": 120,
+    "DOMAIN": 27,
+    "IP-CIDR": 63,
+    "DOMAIN-KEYWORD": 1
+  },
+  "translated": [
+    {
+      "source": "HK_Banks_Direct.list",
+      "from": "URL-REGEX,^https?://www\\.sc\\.com/hk/",
+      "to": "DOMAIN,www.sc.com"
+    }
+  ]
+}
