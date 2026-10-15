@@ -1,0 +1,17 @@
+# Padlet domain rules for Mihomo.
+# Source: https://padlet.help/l/en/article/kl421e5wy6-which-padlet-s-domains-should-my-network-whitelist
+# Reviewed: 2026-10-15
+# Shared video CDNs also match services outside Padlet.
+payload:
+  - '+.padlet.com'
+  - '+.padlet.org'
+  - '+.padlet.app'
+  - '+.padlet.pics'
+  - '+.padlet.net'
+  - '+.padletcdn.com'
+  - '+.padletusercontent.com'
+  - 'padlet-uploads.storage.googleapis.com'
+  - 'cdn.mathjax.org'
+  - '+.mediadelivery.net'
+  - '+.b-cdn.net'
+  - '+.cloudflarestream.com'

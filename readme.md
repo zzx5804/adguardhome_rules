@@ -41,3 +41,7 @@ https://anti-ad.net/easylist.txt
 [![Stargazers over time](https://starchart.cc/mphin/adguardhome_rules.svg)](https://starchart.cc/mphin/adguardhome_rules)
 
 本仓库创建于2023年7月2日
+
+## Mihomo 分流规则
+
+- [Padlet MRS 规则及配置说明](mihomo/README.md)
